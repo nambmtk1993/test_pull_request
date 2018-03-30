@@ -7,6 +7,7 @@
  * All rights reserved
  * @License GNU/GPL version 2 or any later version
  * @Createdate 31/05/2017, 00:36
+ 
  */
 
 if (isset($_GET['response_headers_detect'])) {
